@@ -14,4 +14,8 @@ public class Year {
     public void setYear(String year) {
         this.year = year;
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> github/master

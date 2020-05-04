@@ -11,4 +11,8 @@
         android:text="TextView"
         android:textSize="18dp"
         android:padding="10dp"/>
+<<<<<<< HEAD
 </LinearLayout>
+=======
+</LinearLayout>
+>>>>>>> github/master
