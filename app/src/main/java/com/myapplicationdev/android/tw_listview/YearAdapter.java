@@ -8,7 +8,6 @@ import android.widget.ArrayAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import java.time.Year;
 import java.util.ArrayList;
 
 public class YearAdapter extends ArrayAdapter {
