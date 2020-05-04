@@ -8,10 +8,6 @@ import android.widget.ArrayAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-<<<<<<< HEAD
-=======
-import java.time.Year;
->>>>>>> github/master
 import java.util.ArrayList;
 
 public class YearAdapter extends ArrayAdapter {
@@ -53,8 +49,4 @@ public class YearAdapter extends ArrayAdapter {
         return rowView;
     }
 
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> github/master
